@@ -1,16 +1,18 @@
-# mnistdigitrecognizer
+# Flutter Tensorflow Lite Digit Recognizer
+Digit Recognizer using Tensorflow Lite and MNIST Data
+(It works on both Android and iOS.)
 
-A new Flutter application.
+<img src="./readme/1.png" width="250"/> <img src="./readme/2.png" width="250"/> <img src="./readme/3.png" width="250"/>
 
-## Getting Started
+#### Kaggle
+- https://bit.ly/3g7jfTL
 
-This project is a starting point for a Flutter application.
+### Package
+tflite : A Flutter plugin for accessing TensorFlow Lite API
+https://pub.dev/packages/tflite
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Youtube
+[![Flutter Github TFLite](./readme/youtube.png)](https://youtu.be/SRbxEQ89IBs)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
