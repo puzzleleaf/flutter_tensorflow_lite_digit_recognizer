@@ -9,6 +9,7 @@ Digit Recognizer using Tensorflow Lite and MNIST Data
 
 ### Package
 tflite : A Flutter plugin for accessing TensorFlow Lite API
+
 https://pub.dev/packages/tflite
 
 
