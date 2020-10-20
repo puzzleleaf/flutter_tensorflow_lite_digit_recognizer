@@ -17,3 +17,5 @@ https://pub.dev/packages/tflite
 [![Flutter Github TFLite](./readme/youtube.png)](https://youtu.be/SRbxEQ89IBs)
 
 
+### More
+- [flutter_tflite_style_transfer](https://github.com/PuzzleLeaf/flutter_tflite_style_transfer)
